@@ -1,1 +1,1 @@
-# Classification-using-MP-Neuron-ModelPer
+# Classification-using-MP-Neuron-Model
